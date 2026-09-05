@@ -2,7 +2,7 @@
   "A4 3C 1D DB": {
     "name": "ItznZ03",
     "role": "Owner",
-    "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.raw"
+    "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.txt"
   },
   "74 17 1E DB": {
     "name": "Guest",
