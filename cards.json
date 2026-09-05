@@ -13,6 +13,8 @@
     "role": "Student",
     "card_type": "School",
     "scope": "Classroom",
+    "grade": "Grade 12",
+    "section": "Chabanel",
     "id_type": "UID",
     "security_block": "00000000000000000000000000000000",
     "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.txt"
