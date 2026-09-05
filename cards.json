@@ -2,11 +2,28 @@
   "A4 3C 1D DB": {
     "name": "ItznZ03",
     "role": "Owner",
+    "card_type": "Personal",
+    "scope": "Master Access",
+    "id_type": "CUID",
+    "security_block": "A43C1DDB000000000000000000000000",
+    "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.txt"
+  },
+  "33 C3 BD 38": {
+    "name": "Thirds",
+    "role": "Student",
+    "card_type": "School",
+    "scope": "Classroom",
+    "id_type": "UID",
+    "security_block": "140103E2298000000000000000000000",
     "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.txt"
   },
   "74 17 1E DB": {
     "name": "Guest",
     "role": "Guest",
+    "card_type": "Visitor",
+    "scope": "Lobby Only",
+    "id_type": "UID",
+    "security_block": "",
     "image": ""
   }
 }
