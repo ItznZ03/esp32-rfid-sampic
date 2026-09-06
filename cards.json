@@ -8,7 +8,7 @@
     "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.b64",
     "card_dump": {
       "block_00": { "sector": 0, "type": "Manufacturer Data / UID", "hex": "A43C1DDB5E08040003D90D791728561D", "ascii": "¤<..^.....y.(`V." },
-      "block_01": { "sector": 0, "type": "Data Block", "hex": "00000000000000000000000000000000", "ascii": "................" },
+      "block_01": { "sector": 0, "type": "Data Block", "hex": "10000000000000000000000000000000", "ascii": "................" },
       "block_02": { "sector": 0, "type": "Data Block", "hex": "00000000000000000000000000000000", "ascii": "................" },
       "block_03": { "sector": 0, "type": "Sector Trailer", "hex": "000000000000FF078069FFFFFFFFFFFF", "ascii": "......ÿ.‰ÿÿÿÿÿÿ" },
       "block_04": { "sector": 1, "type": "Data Block", "hex": "00000000000000000000000000000000", "ascii": "................" },
