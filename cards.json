@@ -158,7 +158,7 @@
     "image": "",
     "card_dump": {
       "block_00": { "sector": 0, "type": "Manufacturer Data / UID", "hex": "74171EDBA608040003894380589F6B1D", "ascii": "t..Ûæ...‰C€XŸk." },
-      "block_01": { "sector": 0, "type": "Data Block", "hex": "00000000000000000000000000000000", "ascii": "................" },
+      "block_01": { "sector": 0, "type": "Data Block", "hex": "10000000000000000000000000000000", "ascii": "................" },
       "block_02": { "sector": 0, "type": "Data Block", "hex": "00000000000000000000000000000000", "ascii": "................" },
       "block_03": { "sector": 0, "type": "Sector Trailer", "hex": "000000000000FF078069FFFFFFFFFFFF", "ascii": "......ÿ.‰ÿÿÿÿÿÿ" },
       "block_04": { "sector": 1, "type": "Data Block", "hex": "00000000000000000000000000000000", "ascii": "................" },
