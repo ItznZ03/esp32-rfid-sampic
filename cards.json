@@ -6,7 +6,7 @@
     "scope": "Master Access",
     "id_type": "CUID",
     "security_block": "00000000000000000000000000000000",
-    "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.txt"
+    "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.b64"
   },
   "33 C3 BD 38": {
     "name": "Jose Charito A. Cortez III",
@@ -17,7 +17,7 @@
     "section": "Chabanel",
     "id_type": "UID",
     "security_block": "00000000000000000000000000000000",
-    "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.txt"
+    "image": "https://raw.githubusercontent.com/ItznZ03/esp32-rfid-sampic/main/avatars/owner-enc.b64"
   },
   "74 17 1E DB": {
     "name": "Guest",
